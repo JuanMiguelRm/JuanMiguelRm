@@ -11,7 +11,7 @@ deepening my knowledge in software development.
 💞️ I'm looking to collaborate in projects related to videogame development, data management or the creation of tools for music production. 
 the creation of tools for music production.
 
-📫 You can contact me via email Juanmiguelriquett2@gmail.com
+📫 You can contact me via email juanriquett.dev@gmail.com
 
 😄 Pronouns: He/him.
 
@@ -33,7 +33,7 @@ profundizando mis conocimientos en el desarrollo de software.
 💞️ Estoy buscando colaborar en proyectos relacionados con el desarrollo de videojuegos, la gestión de datos o 
 la creación de herramientas para producción musical.
 
-📫 Puedes contactarme a través de correo electrónico Juanmiguelriquett2@gmail.com
+📫 Puedes contactarme a través de correo electrónico juanriquett.dev@gmail.com
 
 😄 Pronombres: Él/him.
 
